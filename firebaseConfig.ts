@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth"
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA09tBAzBvAlqbnxWQIutkKnCl7NRrRFwg",
-  authDomain: "whatsapp-clone-6f50b.firebaseapp.com",
-  projectId: "whatsapp-clone-6f50b",
-  storageBucket: "whatsapp-clone-6f50b.appspot.com",
-  messagingSenderId: "270608043349",
-  appId: "1:270608043349:web:30b9b65cf2f39f844833dc",
-  measurementId: "G-TTJZ8SRS41"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 
